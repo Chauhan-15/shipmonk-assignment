@@ -1,5 +1,5 @@
 # shipmonk-assignment
-SortedLinked List
+Sorted Linked List
 
 # Technologies
 PHP

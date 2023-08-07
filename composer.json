@@ -1,0 +1,17 @@
+{
+    "name": "akanksha/shipmonk",
+    "description": "library providing SortedLinkedList",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Akanksha\\ShipMonk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Akanksha Chauhan",
+            "email": "akankshachauhan15.1997@gmail.com"
+        }
+    ],
+    "require": {}
+}
